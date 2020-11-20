@@ -23,7 +23,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcotias&show_icons=true&theme=vue-dark&count_private=true" />
 
 </p>
-<br>
-<br>
-
-⭐️ From [kcotias](https://github.com/kcotias)
