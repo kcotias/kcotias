@@ -9,7 +9,7 @@
   My name is Kaian Cotias, i'm a Mobile Engineer & Software Developer from Brazil
   <br>
   <br>
-  🎓 Self taught developer, raised on the new era of internet education with 4+ years of experience
+  🎓 Self taught developer, currently enrolled at FIAP for the "Análise e desenvolvimento de sistemas" degree, raised on the new era of internet education with 4+ years of experience
   <br>
   💻 Passionate about code and discussing new ideas 
   <br>
