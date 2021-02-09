@@ -9,13 +9,11 @@
   My name is Kaian Cotias, i'm a Mobile Engineer & Software Developer from Brazil
   <br>
   <br>
-  🎓 Self taught developer, currently enrolled at FIAP for the "Análise e desenvolvimento de sistemas" degree, raised on the new era of internet education with 4+ years of experience
+  Trying to create stuff to help others :P Check out my React Native libraries below! 
   <br>
   💻 Passionate about code and discussing new ideas 
   <br>
   🔬 Currently in love with React Native
-  <br>
-  📚 Always trying to learn new things, now i'm with: Flutter
   <br>
   📫 How to reach me: <a href="mailto: kaianexperia@gmail.com">kaianexperia@gmail.com</a>
   <br>
