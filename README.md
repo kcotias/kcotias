@@ -9,11 +9,9 @@
   My name is Kaian Cotias, i'm a Mobile Engineer & Software Developer from Brazil
   <br>
   <br>
-  Trying to create stuff to help others :P Check out my React Native libraries below! 
+  Trying to create stuff to help others, already with 5k+ Downloads on my React Native Libs, check them out! 
   <br>
   💻 Passionate about code and discussing new ideas 
-  <br>
-  🔬 Currently in love with React Native
   <br>
   📫 How to reach me: <a href="mailto: kaianexperia@gmail.com">kaianexperia@gmail.com</a>
   <br>
