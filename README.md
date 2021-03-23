@@ -11,8 +11,8 @@
   <br>
   Trying to create stuff to help others :)
   <br>
-  <h5>Already with 5k+ Downloads on my React Native Libs, check them out below and leave a Star <3!</h5>
-  <ul>
+  <h5 align="center">Already with 5k+ Downloads on my React Native Libs, check them out below and leave a Star <3!</h5>
+  <ul align="center">
       <li><a href="https://github.com/kcotias/react-native-animated-input">React Native Animated Input</a></li>
       <li><a href="https://github.com/kcotias/react-native-gesture-bottom-sheet">React Native Gesture Bottom Sheet</a></li>
       <li><a href="https://github.com/kcotias/react-native-animated-progress">React Native Animated Progress</a></li>
