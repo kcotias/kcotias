@@ -9,7 +9,13 @@
   My name is Kaian Cotias, i'm a Mobile Engineer & Software Developer from Brazil
   <br>
   <br>
-  Trying to create stuff to help others, already with 5k+ Downloads on my React Native Libs, check them out! 
+  Trying to create stuff to help others :)
+  <br>
+  <h5>Already with 5k+ Downloads on my React Native Libs, check them out below and leave a Star <3!</h5>
+  <ul>
+      <li><a href="https://github.com/kcotias/react-native-animated-input">React Native Animated Input</a></li>
+      <li><a href="https://github.com/kcotias/react-native-gesture-bottom-sheet">React Native Gesture Bottom Sheet</a></li>
+      <li><a href="https://github.com/kcotias/react-native-animated-progress">React Native Animated Progress</a></li>
   <br>
   💻 Passionate about code and discussing new ideas 
   <br>
