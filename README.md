@@ -2,10 +2,10 @@
 
 A Senior Software Engineer / Tech Lead from Brazil with a huge passion for the React ecosystem, I've been working with React Native on a daily-basis for almost 4 years now, which gave me the experience to build high quality solutions for the most diverse and complex problems out there. Throughout my career i was able to get in touch with incredible challenges such as:
 
-- Mobile Tech Lead, I had the mission to refactor almost completely (99%) the App of one of the biggest private-label card brands on Brazil. An incredible case of success. - [Cartão de TODOS](https://cartaodetodos.com.br/)
-- Senior Engineer, I had the mission to build and architecture a bank from scratch for one of the biggest companies on the clothing segment on Brazil and get it approved by the central bank on a really tight deadline - [Midway](https://www.midway.com.br/)
-- Senior Engineer, I had the role to be the senior/principal developer of the first brazilian team of one of the biggest fintechs here - [RecargaPay](https://recargapay.com.br/)
-- Mid Engineer, I had the mission to build and architecture a VoD/live streaming platform for one of the biggest companies on the cosmetics segment - [WellaEdu](https://www.wellaedu.com.br/)
+- As a Mobile Tech Lead, I had the mission to refactor almost completely (99%) the App of one of the biggest private-label card brands on Brazil. An incredible case of success. - [Cartão de TODOS](https://cartaodetodos.com.br/)
+- As a Senior Engineer, I had the mission to build and architecture a bank from scratch for one of the biggest companies on the clothing segment on Brazil and get it approved by the central bank on a really tight deadline - [Midway](https://www.midway.com.br/)
+- As a Senior Engineer, I had the role to be the senior/principal developer of the first brazilian team of one of the biggest fintechs here - [RecargaPay](https://recargapay.com.br/)
+- As a Mid Engineer, I had the mission to build and architecture a VoD/live streaming platform for one of the biggest companies on the cosmetics segment - [WellaEdu](https://www.wellaedu.com.br/)
 
 #### These are some of the most remarkable, but only a short part of the list! :D
 
