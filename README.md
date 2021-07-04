@@ -24,3 +24,6 @@ Apart from paid projects, I love to create some libs/packages that can help othe
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-rounded&logo=styled-components&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-111111?style=flat-rounded&logo=Figma&logoColor=white" />
 </p>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcotias&show_icons=true&theme=vue-dark&count_private=true" />
+
