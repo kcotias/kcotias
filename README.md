@@ -1,6 +1,6 @@
 ## Hello there, I'm Kaian 👋!
 
-A Senior Software Engineer / Tech Lead from Brazil who has been working with React Native on a daily-basis for almost 4 years now, which gave me the experience to build high quality solutions for the most diverse and complex problems out there. Throughout my career i was able to get in touch with incredible challenges such as:
+A Senior Software Engineer / Tech Lead from Brazil who has been working with React Native on a daily-basis for almost 5 years now, which gave me the experience to build high quality solutions for the most diverse and complex problems out there. Throughout my career i was able to get in touch with incredible challenges such as:
 
 - As a Mobile Tech Lead, I had the mission to refactor almost completely (99%) the App of one of the biggest private-label card brands on Brazil. An incredible case of success. - [Cartão de TODOS](https://cartaodetodos.com.br/)
 - As a Senior Engineer, I had the mission to build and architecture a bank from scratch for one of the biggest companies on the clothing segment on Brazil (Riachuelo) and get it approved by the central bank on a really tight deadline - [Midway](https://www.midway.com.br/)
