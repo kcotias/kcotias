@@ -3,9 +3,9 @@
 I'm a Senior Software Engineer / Tech Lead from Brazil who has been working with React Native daily for almost six years now, which has given me the experience to build high-quality solutions for the most diverse and complex problems out there. Throughout my career, I was able to get in touch with incredible challenges such as:
 
 - As a Mobile Tech Lead, I had the mission to refactor almost (99%) wholly the App of one of Brazil's biggest private-label card brands. An incredible case of success. [Cartão de TODOS](https://cartaodetodos.com.br/)
-- As a Senior Engineer, I had the mission to build and architecture a bank from scratch for one of the biggest companies in the clothing segment in Brazil (Riachuelo) and get it approved by the central bank on a tight deadline. [Midway](https://www.midway.com.br/)
-- As a Senior Engineer, I had the role to be the senior/principal developer of the first Brazilian team of one of the biggest fintech here - [RecargaPay](https://recargapay.com.br/)
-- As an SWE II Engineer, I had the mission to build and architecture a VoD/live streaming platform for one of the biggest companies in the cosmetics segment. [WellaEdu](https://www.wellaedu.com.br/)
+- As a Senior SWE, I had the mission to build and architecture a bank from scratch for one of the biggest companies in the clothing segment in Brazil (Riachuelo) and get it approved by the central bank on a tight deadline. [Midway](https://www.midway.com.br/)
+- As a Senior SWE, I had the role to be the senior/principal developer of the first Brazilian team of one of the biggest fintech here - [RecargaPay](https://recargapay.com.br/)
+- As an SWE II, I had the mission to build and architecture a VoD/live streaming platform for one of the biggest companies in the cosmetics segment. [WellaEdu](https://www.wellaedu.com.br/)
 
 #### These are some of the most remarkable but only a short part of the list! :D
 
