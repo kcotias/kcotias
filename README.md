@@ -9,7 +9,7 @@ I'm a Senior Software Engineer / Tech Lead from Brazil who has been working with
 
 #### These are some of the most remarkable but only a short part of the list! :D
 
-Aside from paid projects, I love to create some libs/packages that can help others solve problems I once had. **Already with 20k+ downloads, check them out below:**
+Aside from paid projects, I love to create some libs/packages that can help others solve problems I once had. **Already with 125k+ downloads, check them out below:**
 
 - [React Native Animated Progress](https://github.com/kcotias/react-native-animated-progress)
 - [React Native Gesture Bottom Sheet](https://github.com/kcotias/react-native-gesture-bottom-sheet)
