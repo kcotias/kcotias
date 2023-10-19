@@ -1,15 +1,15 @@
 ## Hello there, I'm Kaian 👋!
 
-I'm a Senior Software Engineer / Tech Lead from Brazil who has been working with React Native daily for almost 7 years now, which has given me the experience to build high-quality solutions for the most diverse and complex problems out there. Throughout my career, I was able to get in touch with incredible challenges such as:
+I'm a Senior Software Engineer / Tech Lead from Brazil who has been working with React Native daily for almost seven years, which has given me the experience to build high-quality solutions for the most diverse and complex problems. Throughout my career, I was able to get in touch with incredible challenges such as:
 
-- As a Mobile Tech Lead, I had the mission to refactor almost (99%) wholly the App of one of Brazil's biggest private-label card brands. An incredible case of success. [Cartão de TODOS](https://cartaodetodos.com.br/)
-- As a Senior SWE, I had the mission to build and architecture a bank from scratch for one of the biggest companies in the clothing segment in Brazil (Riachuelo) and get it approved by the central bank on a tight deadline. [Midway](https://www.midway.com.br/)
-- As a Senior SWE, I had the role to be the senior/principal developer of the first Brazilian team of one of the biggest fintech here - [RecargaPay](https://recargapay.com.br/)
-- As an SWE II, I had the mission to build and architecture a VoD/live streaming platform for one of the biggest companies in the cosmetics segment. [WellaEdu](https://www.wellaedu.com.br/)
+- As a Mobile Tech Lead, I had the mission to refactor almost (99%) of the App of one of Brazil's biggest private-label card brands. An incredible case of success. [Cartão de TODOS](https://cartaodetodos.com.br/)
+- As a Senior SWE, I had the mission to build and architect a bank from scratch for one of Brazil's biggest companies in the clothing segment (Riachuelo) and get it approved by the central bank on a tight deadline. [Midway](https://www.midway.com.br/)
+- As a Senior SWE, I had the role of the senior developer of the first Brazilian team of one of the biggest fintech here - [RecargaPay](https://recargapay.com.br/)
+- As an SWE II, I had the mission to build and architect a VoD/live-streaming platform for one of the biggest companies in the cosmetics segment. [WellaEdu](https://www.wellaedu.com.br/)
 
-#### These are some of the most remarkable but only a short part of the list! :D
+#### These are some of the most remarkable, but only a short part of the list! :D
 
-Aside from paid projects, I love to create some libs/packages that can help others solve problems I once had. **Already with 125k+ downloads, check them out below:**
+Aside from paid projects, I love to create some libs/packages that can help others solve problems I once had. **Already with 200k+ downloads, check them out below:**
 
 - [React Native Animated Progress](https://github.com/kcotias/react-native-animated-progress)
 - [React Native Gesture Bottom Sheet](https://github.com/kcotias/react-native-gesture-bottom-sheet)
